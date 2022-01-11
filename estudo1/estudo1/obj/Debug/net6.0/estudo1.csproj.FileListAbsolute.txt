@@ -1,0 +1,15 @@
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\bin\Debug\net6.0\estudo1.exe
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\bin\Debug\net6.0\estudo1.deps.json
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\bin\Debug\net6.0\estudo1.runtimeconfig.json
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\bin\Debug\net6.0\estudo1.dll
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\bin\Debug\net6.0\ref\estudo1.dll
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\bin\Debug\net6.0\estudo1.pdb
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\obj\Debug\net6.0\estudo1.csproj.AssemblyReference.cache
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\obj\Debug\net6.0\estudo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\obj\Debug\net6.0\estudo1.AssemblyInfoInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\obj\Debug\net6.0\estudo1.AssemblyInfo.cs
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\obj\Debug\net6.0\estudo1.csproj.CoreCompileInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\obj\Debug\net6.0\estudo1.dll
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\obj\Debug\net6.0\ref\estudo1.dll
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\obj\Debug\net6.0\estudo1.pdb
+C:\Users\Àlberto Barbòsa\source\repos\estudo1\estudo1\obj\Debug\net6.0\estudo1.genruntimeconfig.cache
